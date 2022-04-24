@@ -24,9 +24,9 @@ public class Skills {
   
   private List<Database> databases = new ArrayList<> ();
   
-  databases.add(new Language ("Oracle") );
-  databases.add(new Language ("MongoDB") );
-  databases.add(new Language ("MySQL") );
+  databases.add(new Database ("Oracle") );
+  databases.add(new Database ("MongoDB") );
+  databases.add(new Database ("MySQL") );
 }
 ```
 <img align="right"  alt="Me" width= "300" src="https://user-images.githubusercontent.com/98665908/164992540-4f00d7cc-2b59-4e6f-9108-83b60845fa25.gif">
