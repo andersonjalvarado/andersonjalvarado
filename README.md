@@ -1,6 +1,5 @@
-<img align="rigt"  alt="Me" width= "200" src="https://user-images.githubusercontent.com/98665908/164992540-4f00d7cc-2b59-4e6f-9108-83b60845fa25.gif">
+<img align="center" width= "1000" src="https://user-images.githubusercontent.com/98665908/164995802-0b9889fc-8872-4054-a19e-cdf0316116ea.svg">
 
-<img align="up" width= "1000" src="https://user-images.githubusercontent.com/98665908/164992568-5ba36b2d-8a42-43d4-8284-231338b37894.svg">
 
 
 ```javascript
@@ -25,7 +24,9 @@ const aboutMe = {
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
+<img align="right"  alt="Me" width= "300" src="https://user-images.githubusercontent.com/98665908/164992540-4f00d7cc-2b59-4e6f-9108-83b60845fa25.gif">
+
 </br></br>
-<h2>💻 Some stats 💻</h2>
+<h2 align="left">💻 Some stats 💻</h2>
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=andersonjalvarado&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
