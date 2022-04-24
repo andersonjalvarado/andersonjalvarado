@@ -2,27 +2,32 @@
 
 
 
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
-      },
-      backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
-      },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
-   },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
-};
+```java
+import AndersonAlvarado;
+import java.util.*;
+
+public class Bio {
+  private String name = "Anderson Alvarado";
+  private String occupation = "Student";
+  private String company = "Pontificia Universidad Javeriana";
+  private String location = "Bogotá, Colombia";
+}
+
+public class Skills {
+  private List<Language> languages = new ArrayList<> ();
+  
+  languages.add(new Language ("C++") );
+  languages.add(new Language ("Java") );
+  languages.add(new Language ("Python") );
+  //to be continue...
+  
+  
+  private List<Database> databases = new ArrayList<> ();
+  
+  databases.add(new Language ("Oracle") );
+  databases.add(new Language ("MongoDB") );
+  databases.add(new Language ("MySQL") );
+}
 ```
 <img align="right"  alt="Me" width= "300" src="https://user-images.githubusercontent.com/98665908/164992540-4f00d7cc-2b59-4e6f-9108-83b60845fa25.gif">
 
