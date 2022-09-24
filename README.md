@@ -16,7 +16,7 @@ public class Bio {
 public class Skills {
   private List<Language> languages = new ArrayList<> ();
   
-  languages.add(new Language ("C++") );
+  languages.add(new Language ("C & C++") );
   languages.add(new Language ("Java") );
   languages.add(new Language ("Python") );
   //to be continue...
