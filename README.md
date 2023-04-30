@@ -1,34 +1,28 @@
-<img align="center" width= "1000" src="https://user-images.githubusercontent.com/98665908/164995802-0b9889fc-8872-4054-a19e-cdf0316116ea.svg">
+# <img align="center" width= "95" src="https://user-images.githubusercontent.com/98665908/235330379-78f9d870-1b25-451e-8327-cf5ca119e8f7.png"> Hola, soy Anderson👋
+### Computer Engineering Student.
+
+![https://github.com/andersonjalvarado](https://user-images.githubusercontent.com/98665908/235330135-ea87da75-f5e9-4518-ad06-daaea7ab0331.png)
 
 
+## Tecnologías:
+[![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=101010)]()
+[![C++](https://img.shields.io/badge/C++-232F3E?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]()
+</br>
+[![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
+[![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
+[![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
 
-```java
-import AndersonAlvarado;
-import java.util.*;
+## Redes:
+[![Twitter](https://img.shields.io/badge/Twitter-@anderjalvarado-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/anderjalvarado)
+[![Instagram](https://img.shields.io/badge/Instagram-@andersonjalvarado-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/andersonjalvarado)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-andersonjalvarado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andersonjalvarado)
 
-public class Bio {
-  private String name = "Anderson Alvarado";
-  private String occupation = "Student";
-  private String company = "Pontificia Universidad Javeriana";
-  private String location = "Bogotá, Colombia";
-}
-
-public class Skills {
-  private List<Language> languages = new ArrayList<> ();
-  
-  languages.add(new Language ("C & C++") );
-  languages.add(new Language ("Java") );
-  languages.add(new Language ("Python") );
-  //to be continue...
-  
-  
-  private List<Database> databases = new ArrayList<> ();
-  
-  databases.add(new Database ("Oracle") );
-  databases.add(new Database ("MongoDB") );
-  databases.add(new Database ("MySQL") );
-}
-```
 <img align="right"  alt="Me" width= "300" src="https://user-images.githubusercontent.com/98665908/164992540-4f00d7cc-2b59-4e6f-9108-83b60845fa25.gif">
 
 </br></br>
