@@ -1,7 +1,8 @@
 # <img align="center" width= "95" src="https://user-images.githubusercontent.com/98665908/235330379-78f9d870-1b25-451e-8327-cf5ca119e8f7.png"> Hola, soy Anderson👋
 ### Computer Engineering Student.
 
-![Anderson_Banner (1)](https://user-images.githubusercontent.com/98665908/235332600-0f45e3e4-37d3-4a43-a5b8-f35d05fdec6a.png)
+![logo](https://github.com/andersonjalvarado/andersonjalvarado/assets/98665908/ecc78654-ff96-4915-946f-c6375e30b246)
+
 
 ## Tecnologías:
 [![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
